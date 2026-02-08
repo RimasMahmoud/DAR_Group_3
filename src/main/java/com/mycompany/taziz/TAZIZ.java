@@ -13,7 +13,7 @@ public class TAZIZ {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Sadeem Aljehani updated!!");
-        System.out.println("Rana Almisbahi updated!!");
+        System.out.println("Rana Almisbahi updated!");
         
     }
 }
